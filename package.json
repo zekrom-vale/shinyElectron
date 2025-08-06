@@ -30,7 +30,7 @@
   "dependencies": {
     "await-to-js": "^3.0.0",
     "config": "^3.3.11",
-    "fs-extra": "^11.2.0",
+    "fs-extra": "^11.3.1",
     "js-yaml": "^4.1.0"
   }
 }
