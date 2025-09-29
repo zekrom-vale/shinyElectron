@@ -25,7 +25,7 @@
   "author": "zekrom-vale",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^29.1.5"
+    "electron": "^38.2.0"
   },
   "dependencies": {
     "await-to-js": "^3.0.0",
